@@ -1,2 +1,3 @@
-data/*
+data/downloads/*
+data/rotten_tomatoes/*
 weights/*
